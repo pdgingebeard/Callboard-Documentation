@@ -1,14 +1,14 @@
 - Getting started
 
-  - [Quick start](quickstart.md)
+  - [Sign up](quickstart.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
 
-- Customization
+- Admin Tools
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
+  - [Creating a show](configuration.md)
+  - [Creating a shoot day](themes.md)
   - [List of Plugins](plugins.md)
   - [Write a Plugin](write-a-plugin.md)
   - [Markdown configuration](markdown.md)
