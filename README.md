@@ -21,3 +21,4 @@ Therefore, Callboard will ask for:
 * Medical information
 * Dietary information
 * Permission to send notifications
+
