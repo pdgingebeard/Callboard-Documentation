@@ -9,8 +9,11 @@
 <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {https://raw.githubusercontent.com/pdgingebeard/Callboard-Documentation/master/README.md
+    window.$docsify = {
+         alias: {
+         '.*?/awesome' :   'https://raw.githubusercontent.com/pdgingebeard/Callboard-Documentation/master/README.md'
       //...
+         },
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
