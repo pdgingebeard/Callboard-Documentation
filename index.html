@@ -12,10 +12,19 @@
     window.$docsify = {
          alias: {
          '.*?/awesome' :   'https://raw.githubusercontent.com/pdgingebeard/Callboard-Documentation/master/README.md'
+         },
+         loadSidebar: true,
+         search: {
+         noData: {
+          '/de-de/': 'Keine Ergebnisse!',
+          '/zh-cn/': '没有结果!',
+          '/': 'No results!'
       //...
          },
+         }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
+
