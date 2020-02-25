@@ -1,6 +1,6 @@
-# Documentation
+# Callboard Documentation
 
-This is documentation for Callboard (MORE than a call sheet).
+This is documentation for Callboard (MORE than a call sheet). A cross platform app for filmmakers. [Check it out](https://callboard.app "Callboard Website")
 
 ## Login
 
@@ -21,4 +21,6 @@ Therefore, Callboard will ask for:
 * Medical information
 * Dietary information
 * Permission to send notifications
+
+##
 
