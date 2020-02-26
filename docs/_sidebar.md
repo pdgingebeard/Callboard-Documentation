@@ -5,9 +5,8 @@
   - [Sign Up](signup.md)
   - [Permissions](permissions.md)
 
+- Left Navigation
+  - [People](people.md)
+
 - Admin Tools
-
   - 
-  - 
-
-
