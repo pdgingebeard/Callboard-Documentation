@@ -6,17 +6,7 @@ This is documentation for Callboard (MORE than a call sheet). A cross platform a
 
 Callboard helps filmmakers accomplish organization through centralization of information.
 
-Let's talk about what call sheets don't do, and what Callboard does.
-
-Call sheets can provide an address to the location, which you can't open in your navigation system. 
-Callboard has one-touch navigation.
-
-Call sheets might have a set phone number in tiny print, that you have to copy paste into your Phone app. 
-Callboard has one-touch call/text buttons for the set phone on the home screen of the app.
-
-and [deploy it on GitHub Pages](deploy.md).
-
-See the [Quick start](quickstart.md) guide for more details.
+That information is found on your mobile phone, iOS or Android. The app is written in Flutter/Dart so it will be available for web, Windows and MacOS at somepoint in the future.
 
 ## Features
 
