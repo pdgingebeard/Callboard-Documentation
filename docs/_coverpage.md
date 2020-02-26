@@ -10,5 +10,5 @@
 - Live updates keep crew in sync
 - 1-Touch Navigation
 
-[Documentation](#Documentaion)
+[Documentation](#documentaion)
 [Get Started](https://callboard.app)
