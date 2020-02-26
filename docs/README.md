@@ -1,4 +1,4 @@
-# Callboard Documentation
+# Documentation
 
 This is documentation for Callboard (MORE than a call sheet). A cross platform app for filmmakers. [Check it out](https://callboard.app "Callboard Website")
 
