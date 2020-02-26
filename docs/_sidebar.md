@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Guide](permissions.md)
+* [Sign Up](signup.md)
+* [Permissions](permissions.md)
