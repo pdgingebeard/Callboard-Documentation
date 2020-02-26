@@ -1,6 +1,6 @@
 - User Pages
 
-  - [Home](/)
+  - [Documentation](/)
   - [Login](login.md)
   - [Sign Up](signup.md)
   - [Permissions](permissions.md)
