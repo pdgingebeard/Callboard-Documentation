@@ -8,11 +8,11 @@ Therefore, Callboard will ask for:
 * Profile picture
 * Medical information
 * Dietary information
-* [Permission](#Permissions) to send notifications
+* [Permission](permissions.md) to send notifications
 
 ## Phone Number
 
-To make sure the [People](#People) section of the project is flawless, we require verification of your phone number via SMS. There are two pages:
+To make sure the [People](people.md) section of the project is flawless, we require verification of your phone number via SMS. There are two pages:
 * Entering your phone number
 * Entering the SMS verification code
 
