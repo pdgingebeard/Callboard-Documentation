@@ -20,23 +20,23 @@ Therefore, Callboard will ask for:
 * Profile picture
 * Medical information
 * Dietary information
-* Permission to send notifications
+* [Permission](#Permissions) to send notifications
 
-# Permissions
+### Phone Number
 
-In order to make a more versitile app, we ask permission for our app to do different things. Here is the list of Permissions we may ask for and why we ask for them.
+To make sure the [People](#People) section of the project is flawless, we require verification of your phone number via SMS. There are two pages:
+* Entering your phone number
+* Entering the SMS verification code
 
-## Notifications
+First, select your country's flag which provides us with the international phone code. Then enter your mobile number, no dashes or parenthesis needed. When your number is entered, hit sumbit. If your device does not send you to 
 
-Production uses email to mass communicate with cast and crew. Since the app contains all cast and crew, communication is simplist using the app. Reasons we would send a notification:
-* Someone invites you to a show.
-* In a show, for a shoot day, your calltime is 12 hrs from now.
+### Email address
 
-## Camera
+### Profile Picture
 
-While creating your profile, we require a picture. If you decide to take a photo in that moment, our app needs your permission to use the camera. This is the only time we access your camera, other than if you decide later to capture a different photo of yourself to replace your current profile picture.
+### Medical Information
 
-## Gallery
+### Dietary Information
 
-While creating your profile, we require a picture. If you decide to pull a photo of yourself from your phone, our app needs your permission to use access your gallery files. This is the only time we access your gallery, other than if you decide later to select a different photo of yourself to replace your current profile picture.
+### Notifications
 
