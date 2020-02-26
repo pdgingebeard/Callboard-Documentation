@@ -1,3 +1,4 @@
-- Getting started
+<!-- docs/_sidebar.md -->
 
-  - [Permissions](permissions.md)
+* [Home](/)
+* [Guide](permissions.md)
