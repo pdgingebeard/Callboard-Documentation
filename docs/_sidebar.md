@@ -1,5 +1,10 @@
-<!-- docs/_sidebar.md -->
+- User Pages
 
-* [Home](/)
-* [Sign Up](signup.md)
-* [Permissions](permissions.md)
+  - [Home](/)
+  - [Login](login.md)
+  - [Sign Up](signup.md)
+  - [Permissions](permissions.md)
+
+- Admin Tools
+
+  - 
