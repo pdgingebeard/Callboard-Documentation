@@ -2,13 +2,13 @@
 
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# Callboard Documentation <small>1.2.1</small>
 
-> A magical documentation site generator.
+> A cross platform film application.
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- No Excel! Enter info and you're done
+- Live updates keep crew in sync
+- 1-Touch Navigation
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[Documentation](#Documentaion)
+[Get Started](https://callboard.app)
