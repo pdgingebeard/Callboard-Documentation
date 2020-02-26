@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg ':size=30%')
+![logo](_media/logo.svg)
 
 # Callboard Documentation <small>1.2.1</small>
 
