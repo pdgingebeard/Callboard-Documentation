@@ -16,3 +16,6 @@ While creating your profile, we require a picture. If you decide to take a photo
 
 While creating your profile, we require a picture. If you decide to pull a photo of yourself from your phone, our app needs your permission to use access your gallery files. This is the only time we access your gallery, other than if you decide later to select a different photo of yourself to replace your current profile picture.
 
+## Locations
+
+When picking a location for the shoot, in order to use Google Places API, the app needs permission to your locations. The only time the app accesses your location is while you are picking location.
