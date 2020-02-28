@@ -10,6 +10,6 @@ Admin Tools
   
   - [Create a Show](creation.md)
   - [Automation](automation.md)
-  - [Roles](Roles.md)
+  - [Roles](roles.md)
   - [Scenes](scenes.md)
   - [Notes](notes.md)
