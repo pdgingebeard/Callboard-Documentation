@@ -40,9 +40,25 @@ Second, enter the code you got from your SMS message. Hit submit and you will be
 
 To make sure the [People](people.md) section looks professional, we recommend choosing a headshot from your gallery. If you are in a well lit area, you may also take a picture of yourself using your camera. Each of these options will complete the requirements of a Profile Picture.
 
-
 ## Medical Information
+
+This medical information's intended use is to assist in providing production information. Production commonly uses this information during an emergency or during prep as to avoid potential situations that would put a crew/cast member at risk. Please do not share information that you do not feel comfortable making known to production. Certain information could include, but is not limited to:
+* Allergies
+* Recent injuries
+* Pre-exisiting Conditions
 
 ## Dietary Information
 
+In order for production to provide everyone with meal and snack options, they generally ask for any dietary restrictions. This could include, but is not limited to:
+* Allergies
+* Lactose Intolerance
+* No-hooved animals
+* Vegetarian
+* Vegan
+* Low Carb
+
 ## Notifications
+
+As of v1.2 there are only two occasions in which Callboard pushes a notification.
+* User has a calltime 12hrs in the future.
+* User has been invited to a show.
