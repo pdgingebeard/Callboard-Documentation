@@ -12,12 +12,19 @@ Therefore, Callboard will ask for:
 
 ## Email Address
 
-To make sure the [People](people.md) section of the project is flawless, we require verification of your email. There are two steps:
-* Enter your email address and create a password
+To make sure the [People](people.md) section of the project is flawless, we require verification of your email. There are four steps:
+* Enter your email address 
+* Create a password
 * Find the Callboard email verification
 * Verify the information
 
-First, select your country's flag which provides us with the international phone code. Then enter your mobile number, no dashes or parenthesis needed. When your number is entered, hit sumbit. If your device does not send you to 
+First, enter the email you wish to use for this app. This email will be visible to admins and might be visable to other users. [See permissions](permissions.md). 
+
+Second, create a password. Make this a strong password. A strong password consists of lowercase letters, uppercase letters, numbers, and symbols.
+
+Third, check the unread mail of the email you used to sign up. The mail might have gone to the spam folder. Please mark it as not spam, and use the link provided to verify your email.
+
+Lastly, if the link brought you to a 'Thank you, you have been verified,' return to Callboard. There you may either click the button, 'I've been verified', or Callboard has directed you to Phone Number Verification. If you used the wrong email address or accidentally deleted the verification email, you will see buttons for both of those outcomes. 
 
 ## Phone Number
 
@@ -30,6 +37,8 @@ First, select your country's flag which provides us with the international phone
 Second, enter the code you got from your SMS message. Hit submit and you will be verified.
 
 ## Profile Picture
+
+
 
 ## Medical Information
 
