@@ -38,7 +38,9 @@ Second, enter the code you got from your SMS message. Hit submit and you will be
 
 ## Profile Picture
 
-To make sure the [People](people.md) section looks professional, we recommend choosing a headshot from your gallery. If you are in a well lit area, you may also take a picture of yourself using your camera. Each of these options will complete the requirements of a Profile Picture.
+To make sure the [People](people.md) section looks professional, we recommend choosing a headshot from your gallery. If you are in a well-lit area, you may also take a picture of yourself using your camera. Each of these options will complete the requirements of a Profile Picture. If you want to change your picture later, you can do so using your camera or from your gallery in your [Profile](profile.md).
+
+* Picture from Gallery: This will prompt a [permissions](permissions.md) requestion. Once you allow, you should be 
 
 ## Medical Information
 
