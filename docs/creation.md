@@ -38,5 +38,3 @@ At this point, there are a few options we recommend to insure a successful proje
 * Add as much information as you have into future Shoot Days
 
 ## Create a Shoot Day
-
-## 
