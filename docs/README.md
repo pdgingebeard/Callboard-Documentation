@@ -1,13 +1,11 @@
 # Documentation
 
 This is documentation for Callboard (MORE than a call sheet). A cross platform app for filmmakers. [Check it out](https://callboard.app "Callboard Website")
-
 ## What is Callboard
 
 Callboard helps filmmakers accomplish organization through centralization of information. 
 
 That information is found on your mobile phone, iOS or Android. The app is written in Flutter/Dart so it will be available for web, Windows and MacOS at somepoint in the future.
-
 ## Features
 
 - Home screen with your individual Call Time, Shooting Call, and 1st Meal.
