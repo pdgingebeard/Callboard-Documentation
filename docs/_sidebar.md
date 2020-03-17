@@ -5,7 +5,7 @@
   - [Sign Up](signup.md)
   - [Permissions](permissions.md)
   - [Left Navigation](leftnav.md)
-  - [Profile](profile.md)
+  - [Edit Profile](profile.md)
 
 Admin Tools
   
