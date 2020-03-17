@@ -1,7 +1,19 @@
 # Left Navigation
 
+Due to the complexity of a call sheet, we chose to use a Left Navigation Bar to organize information that mostly Admins would use. Below you will find a summary of each section as a User interfaces with it. For a deeper understanding, please find further explanation in Admin Tools or a deeper.
 ## Profile
 
+Profile is one of Callboard's largest natural advantage to a .pdf call sheet. After signing up, your profile (as of version 1.2) houses:
+* Profile picture
+* First and last name
+* Role
+* Email address
+* Phone number
+* Dietary information
+* Medical information
+We included all of this information to create People. The People section is the most comprehensive automated Cast List/Crew List availble. See Below for more information.
+
+If you need to edit your profile at all, please see [Edit Profile](profile.md).
 ## Current Show
 
 ## All Scenes
