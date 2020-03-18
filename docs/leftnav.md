@@ -16,6 +16,7 @@ We included all of this information to create People. The People section is the 
 If you need to edit your profile at all, please see [Edit Profile](profile.md).
 ## Current Show
 
+Current show displays the project name that Callboard is pulling information from. Once clicked, Callboard displays the list of shows you're involved in, allowing you to choose between shows. At the bottom of your shows you will see 'Create Show'. [Create Show](creation.md) is the first step into starting a project and becoming an admin.
 
 If 'Create Show' is the only option, check [Invites](#Invites) to see if you have an invite or contact production with the email you signed up with to receive an invite. 
 ## All Scenes
