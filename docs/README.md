@@ -17,3 +17,13 @@ That information is found on your mobile phone, iOS or Android. The app is writt
 ## Contact Us
 
 [Email](mailto:proteanautomationllc@gmail.com?subject=[Documentation]%20Questions%20About%20Documentation)
+## Privacy Policy
+
+[Privacy Policy](https://callboard.app/docs/privacypolicy.txt "Privacy Policy")
+## User Deletion Details
+- Login to the Callboard App found in Google Play Store or The App Store.
+- In the left navigation menu click on your profile image, which should take you to your profile details.
+- Scroll down to the bottom of your details to find the Delete My Account button.
+- On clicking the button it will take you to a dialog "Are you sure...? THIS WILL DELETE YOUR PROFILE PERMENETLY."
+- On clicking "yes" your Email, Phone number, Profile Picture, Diet, Basic medical information will be deleted from shows you are in.
+- Your name and your attached role will be retained for your productions historical records.
